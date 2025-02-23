@@ -9,4 +9,19 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 5.  admin panel
 
 #🚀 3. Screenshots
-1.  Homepage1
+1.  Homepage-user-login
+
+
+
+
+
+2.  Homepage
+3.  admin-data-page
+4.  admin-homepage
+5.  code verification
+6.  complaint_history_page
+7.  complaint_status_page1
+8.  complaint_status_page2
+9.  complaint_tracking_details
+10.  contact_us page
+11.  report_page_with_map
