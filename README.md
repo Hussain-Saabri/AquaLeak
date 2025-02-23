@@ -13,15 +13,19 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 
 ![Homepage-user-login](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/Homepage-user-login.png)
 
+2.  report_page_with_map
+![report_page_with_map](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/report_page_with_map.png)
 
+3.  Homepage
+![Homepage](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/Homepage.png)
+4.  Sign up page
 
-2.  Homepage
-3.  admin-data-page
-4.  admin-homepage
-5.  code verification
-6.  complaint_history_page
-7.  complaint_status_page1
-8.  complaint_status_page2
-9.  complaint_tracking_details
-10.  contact_us page
-11.  report_page_with_map
+6.  admin-data-page
+7.  admin-homepage
+8.  code verification
+9.  complaint_history_page
+10.  complaint_status_page1
+11.  complaint_status_page2
+12.  complaint_tracking_details
+13.  contact_us page
+
