@@ -10,9 +10,8 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 
 #🚀 3. Screenshots
 
-**1.  Homepage-user-login**
 
-## **1.   Homepage-user-login**    <!-- Medium + bold -->
+**1.   Homepage-user-login**    <!-- Medium-->
 
 ![Homepage-user-login](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/Homepage-user-login.png)
 
