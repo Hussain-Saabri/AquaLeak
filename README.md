@@ -1,6 +1,6 @@
-## **1. Water Leakage Complaint Portal**     <!-- Medium + bold -->
+## **1. Water Leakage Complaint Portal**    
 
-##🚀 **1. Water Leakage Complaint Portal**
+
 
 This is an complaint portal build using html ,css , javascript as frontend and php as bakend and databse used is MYSQL
 
