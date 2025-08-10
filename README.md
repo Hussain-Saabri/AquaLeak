@@ -23,37 +23,33 @@ This is an complaint portal build using html ,css , javascript as frontend and p
 
 ![report_page_with_map](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/report_page_with_map.png)
 
-## **3. Homepage**
+## **3. Sign Up Page**
    
-![Homepage](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/Homepage.png)
+![Homepage](https://github.com/Hussain-Saabri/Aqua/raw/main/screenshots/signup%20page.png)
 
-## **4. Sign up page**
-   
 
-![SignUpPgae](https://github.com/Hussain-Saabri/AquaLeak/blob/cba41127521f9912ecce178edba3e839f04badcc/Screenshots/signup%20page.png)
-
-## **5. Login Page**
+## **4. Login Page**
 
    
-![LoginPage](https://github.com/Hussain-Saabri/AquaLeak/blob/cba41127521f9912ecce178edba3e839f04badcc/Screenshots/loginpage.png)
+![LoginPage](https://github.com/Hussain-Saabri/Aqua/raw/main/screenshots/loginpage.png)
 
-## **6. code verification**
+## **5. code verification**
    
-![code verification](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/code%20verification.png)
+![code verification](https://github.com/Hussain-Saabri/Aqua/raw/main/screenshots/code%20verification.png)
  
 
-## **7. complaint_history_page**
+## **6. complaint_history_page**
 
   
-![complaint_history_page](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/complaint_history_page.png)
+![complaint_history_page](https://github.com/Hussain-Saabri/Aqua/raw/main/screenshots/complaint_history_page.png)
 
-## **8. complaint_tracking_details**
+## **7. complaint_tracking_details**
 
     
-![complaint_tracking_details](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/complaint_tracking_details.png)
+![complaint_tracking_details](https://github.com/Hussain-Saabri/AquaLeak/raw/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/complaint_tracking_details.png)
 
-## **9. contact_us page**
+## **8. contact_us page**
 
-![contact_us page](https://github.com/Hussain-Saabri/AquaLeak/blob/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/contact_us%20page.png)
+![contact_us page](https://github.com/Hussain-Saabri/AquaLeak/raw/281851dd1c167eada2fd548d75aa1767d06f10bc/Screenshots/contact_us%20page.png)
 
 
